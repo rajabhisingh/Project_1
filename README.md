@@ -1,1 +1,1 @@
-# pf_portal
+# inst_mag
